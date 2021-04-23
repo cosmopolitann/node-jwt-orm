@@ -1,0 +1,71 @@
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-22T11:10:40.758Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-22T11:49:04.673Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T01:06:40.999Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T01:08:33.860Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T01:09:28.220Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T01:22:39.216Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T01:23:15.797Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T01:54:03.324Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T01:59:18.662Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T02:27:50.747Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T02:32:26.052Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T02:45:53.647Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T02:50:18.948Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T03:08:17.453Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T03:10:04.561Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T03:12:50.597Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T03:13:23.530Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T03:14:17.468Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T03:17:27.640Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T03:17:56.965Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T03:20:43.973Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T03:22:53.767Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T03:57:16.510Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T03:57:57.901Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T03:58:27.295Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T04:27:37.921Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T04:29:19.136Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T04:40:18.347Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T05:10:16.261Z"}
+{"message":"获取token值","level":"info","timestamp":"2021-04-23T05:10:16.261Z"}
+{"message":" Login 请求 ","level":"info","timestamp":"2021-04-23T05:10:16.261Z"}
+{"timestamp":"2021-04-23T05:10:16.261Z","Username":"Nick","Tel":"181000011111","level":"info","message":" 请求 参数 信息 body : "}
+{"timestamp":"2021-04-23T05:10:16.261Z","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1ZXJuYW1lIjoiTmljayIsImlhdCI6MTYxOTE1MjgxOSwiZXhwIjoxNjE5NDEyMDE5fQ.FA9T_B0WZfgucR48m1ChFsZEIiqv7Rv1txgrh4y8xns","content-type":"application/json","user-agent":"PostmanRuntime/7.26.10","accept":"*/*","postman-token":"1f81928b-f292-46c7-ae4e-98a7a0ec9b83","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"46","User":{"uername":"Nick","iat":1619152819,"exp":1619412019},"level":"info","message":" 请求头信息  : "}
+{"timestamp":"2021-04-23T05:10:16.261Z","uername":"Nick","iat":1619152819,"exp":1619412019,"level":"info","message":" 请求头信息 User 信息  : "}
+{"timestamp":"2021-04-23T05:10:16.261Z","level":"info","message":" 获取 参数 手机号 信息  Name =: "}
+{"timestamp":"2021-04-23T05:10:16.261Z","level":"info","message":" 获取 参数 用户名 信息  Tel =: "}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T06:04:32.829Z"}
+{"message":"获取token值","level":"info","timestamp":"2021-04-23T06:04:32.829Z"}
+{"message":" Login 请求 ","level":"info","timestamp":"2021-04-23T06:04:32.829Z"}
+{"timestamp":"2021-04-23T06:04:32.829Z","Username":"Nick","Tel":"181000011111","level":"info","message":" 请求 参数 信息 body : "}
+{"timestamp":"2021-04-23T06:04:32.829Z","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1ZXJuYW1lIjoiTmljayIsImlhdCI6MTYxOTE1MjgxOSwiZXhwIjoxNjE5NDEyMDE5fQ.FA9T_B0WZfgucR48m1ChFsZEIiqv7Rv1txgrh4y8xns","content-type":"application/json","user-agent":"PostmanRuntime/7.26.10","accept":"*/*","postman-token":"a6f003c4-5bce-4fe6-9a77-6dcf2122aa99","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"46","User":{"uername":"Nick","iat":1619152819,"exp":1619412019},"level":"info","message":" 请求头信息  : "}
+{"timestamp":"2021-04-23T06:04:32.829Z","uername":"Nick","iat":1619152819,"exp":1619412019,"level":"info","message":" 请求头信息 User 信息  : "}
+{"timestamp":"2021-04-23T06:04:32.829Z","level":"info","message":" 获取 参数 手机号 信息  Name =: "}
+{"timestamp":"2021-04-23T06:04:32.829Z","level":"info","message":" 获取 参数 用户名 信息  Tel =: "}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T06:52:44.087Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T06:53:45.101Z"}
+{"message":"获取token值","level":"info","timestamp":"2021-04-23T06:53:45.101Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T06:54:50.085Z"}
+{"message":"获取token值","level":"info","timestamp":"2021-04-23T06:54:50.085Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T06:57:08.855Z"}
+{"message":"获取token值","level":"info","timestamp":"2021-04-23T06:57:08.855Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T06:57:48.316Z"}
+{"message":"获取token值","level":"info","timestamp":"2021-04-23T06:57:48.316Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T07:00:03.442Z"}
+{"message":"获取token值","level":"info","timestamp":"2021-04-23T07:00:03.442Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T07:00:56.687Z"}
+{"message":"获取token值","level":"info","timestamp":"2021-04-23T07:00:56.687Z"}
+{"message":"获取token值","level":"info","timestamp":"2021-04-23T07:00:56.687Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T07:03:59.170Z"}
+{"message":"获取token值","level":"info","timestamp":"2021-04-23T07:03:59.170Z"}
+{"message":"获取token值","level":"info","timestamp":"2021-04-23T07:03:59.170Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T07:05:09.442Z"}
+{"message":"获取token值","level":"info","timestamp":"2021-04-23T07:05:09.442Z"}
+{"message":"获取token值","level":"info","timestamp":"2021-04-23T07:05:09.442Z"}
+{"message":"获取token值","level":"info","timestamp":"2021-04-23T07:05:09.442Z"}
+{"message":"获取token值","level":"info","timestamp":"2021-04-23T07:05:09.442Z"}
+{"message":"获取token值","level":"info","timestamp":"2021-04-23T07:05:09.442Z"}
+{"message":"获取token值","level":"info","timestamp":"2021-04-23T07:05:09.442Z"}
+{"message":"Example app listening on port 3000!","level":"info","timestamp":"2021-04-23T07:07:35.781Z"}
+{"message":"获取token值","level":"info","timestamp":"2021-04-23T07:07:35.781Z"}
+{"message":"获取token值","level":"info","timestamp":"2021-04-23T07:07:35.781Z"}
